@@ -1,11 +1,13 @@
 <!DOCTYPE>
 =BBC News UK IPTV Feed<i>Monthly update<i/>=<\br>
 *https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-* UK only  
-- Resolution: p
+* UK only 
+- Format: 16:9
+- Resolution: 720p
 - Quality: Good
 - Comment: Good 
 *https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-- Resolution: p
+- Format: 16:9
+- Resolution: 720p
 - Quality: Good
 - Comment: The signal is usually jerky after about 3 to 5 seconds
