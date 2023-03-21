@@ -5,9 +5,9 @@
 - Format: 16:9
 - Resolution: 720p
 - Quality: Good
-- Comment: Good 
+- Comment: Good
 *https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 - Format: 16:9
 - Resolution: 720p
 - Quality: Good
-- Comment: The signal is usually jerky after about 3 to 5 seconds
+- Comment: The signal is usually jerky after about 3 to 5 seconds, 89 seconds delay. 
