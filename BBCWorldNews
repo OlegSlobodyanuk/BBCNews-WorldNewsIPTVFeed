@@ -14,6 +14,13 @@ BBC World News IPTV Feed / All Feed - If possible<i>Monthly update<i/>=<\br>
 - Quality: Normal
 - Comment: Normal
 
+*http://77.231.30.179:1973/stream/channelid/1868009321?profile=pass
+*Regional BBC World News variation: Europe
+- Format: 16:9
+- Resolution: 1080p
+- Quality: Normal
+- Comment: Normal
+
 *http://45.179.164.9:8000/play/a035/index.m3u8
 *UK only
 - Format: 4:3 stretched to 16:9
